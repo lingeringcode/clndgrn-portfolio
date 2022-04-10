@@ -1,0 +1,8 @@
+@media (min-width: 576px) {
+  
+  .featurette > div:not(:first-child) {
+    flex: 0 0 25%;
+    max-width: 25%;
+  }
+
+}

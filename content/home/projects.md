@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 50
 
 title: Projects
 subtitle: ''
@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Techcomm
+    tag: technical and professional communication
+  - name: Computational Rhetoric
+    tag: computational rhetoric
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
