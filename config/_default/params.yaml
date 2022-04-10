@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Chris Lindgren an Assistant Professor of Technical Communication & Data Visualization in the English Department at Virginia Tech. His research engages the intersections of critical code and critical data studies by studying computer coding as a culturally dynamic form of writing with data, as opposed to simply a result of automated technology alone.'
+    twitter: 'lndgrn'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -51,7 +51,7 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: '2006'
   time_format: '3:04 PM'
   address_format: en-us
 
@@ -61,6 +61,7 @@ features:
   syntax_highlighter:
     enable: true
     extra_languages:
+      - python
       - r
       - latex
   math:
@@ -70,7 +71,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/lingeringcode/clndgrn-portfolio'
     content_dir: content
     branch: master
   avatar:
