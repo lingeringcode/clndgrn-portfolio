@@ -18,12 +18,12 @@ bio: My research interests include the relations created when writing code and t
 
 # Interests to show in About widget
 interests:
-- computer coding as writing with data
+- critical code studies
 - critical data studies
+- data processing, analysis, and visualization
 - digital cultural rhetoric
 - coding literacy
 - materiality of writing
-- data processing and analysis
 
 # Education to show in About widget
 # education:
@@ -75,9 +75,9 @@ highlight_name: true
 
 I'm an Assistant Professor of Technical Communication & Data Visualization in the English Department at Virginia Tech, where I teach courses in technical communication, literacies, and digital-cultural rhetorics of technology. I am also currently the Chair of the Special Interest Group on the Writing and Rhetorics of Code ([SIGWROC](https://wroc.netlify.app/)).
 
-My research engages the intersections of critical code and critical data studies by studying computer coding as a culturally dynamic form of writing with data, as opposed to simply a result of automated technology alone. You can learn more about this way of understanding coding through my article, '[Writing with data: A study of coding on a data-journalism team](https://doi.org/10.1177/0741088320968061)."
+My research studies engages digital data as a form of technical communication by understanding how computer coding is a culturally dynamic form of writing with data. You can learn more about this way of understanding coding through my article, '[Writing with data: A study of coding on a data-journalism team](https://doi.org/10.1177/0741088320968061)."
 
-I also apply computational social science methods to feminist and anti-racist rhetorical theories, as a means to differently understand social relationships in digital environments. 
+I also apply computational social science methods to feminist and anti-racist rhetorical theories, as a means to differently understand social relationships in digital environments.
 
 <!-- I am currently collaborating on 3 such projects:
 
