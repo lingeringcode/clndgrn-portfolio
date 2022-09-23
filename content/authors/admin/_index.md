@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Chris Lindgren
+title: Chris Lindgren, Ph.D.
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Technical Communication and Data Visualization
+role: Assistant Professor of Technical Communication and Data Visualization
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,16 +14,15 @@ organizations:
   url: https://liberalarts.vt.edu/departments-and-schools/department-of-english/faculty/chris-aaron-lindgren.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the relations created when writing code and theorizing the digital cultural rhetorics of white supremacy in the United States.
+bio: My research interests include the relations we create when writing code and developing software.
 
 # Interests to show in About widget
 interests:
-- critical code studies
-- critical data studies
+- critical code and data studies
 - data processing, analysis, and visualization
-- digital cultural rhetoric
+- visual rhetoric
 - coding literacy
-- materiality of writing
+- designing communication for justice
 
 # Education to show in About widget
 # education:
@@ -43,18 +42,21 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/lndgrn
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: cv
+  icon_pack: ai
+  link: assets/media/clindgrencv.pdf
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=--EL_Y8AAAAJ&hl=en
+- icon: researchgate
+  icon_pack:  ai
+  link: https://www.researchgate.net/profile/Chris-Lindgren-3
 - icon: github
   icon_pack: fab
   link: https://github.com/lingeringcode
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/lndgrn
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/lindgrenchris/
@@ -73,11 +75,15 @@ email: "chris.a.lindgren@gmail.com"
 highlight_name: true
 ---
 
-I'm an Assistant Professor of Technical Communication & Data Visualization in the English Department at Virginia Tech, where I teach courses in technical communication, literacies, and digital-cultural rhetorics of technology. I am also currently the Chair of the Special Interest Group on the Writing and Rhetorics of Code ([SIGWROC](https://wroc.netlify.app/)).
+I'm an Assistant Professor of Technical Communication & Data Visualization in the English Department at Virginia Tech.
 
-My research studies engages digital data as a form of technical communication by understanding how computer coding is a culturally dynamic form of writing with data. You can learn more about this way of understanding coding through my article, '[Writing with data: A study of coding on a data-journalism team](https://doi.org/10.1177/0741088320968061)."
+**Critical Code & Data Studies, Visual Rhetoric, Coding Literacy**: I study computer coding and data as technical communication activities. I focus on understanding code and data as a process of communicating, rather than as a static product. My studies examine people, tools, and their context of work shapes and is also shaped by their coding and data during activities like data processing, analysis, and visualization. I have also previously published on the rhetorics that impact calls for a new mass literacy of coding.
 
-I also apply computational social science methods to feminist and anti-racist rhetorical theories, as a means to differently understand social relationships in digital environments.
+**Communication Design and Design Justice**: I also study and perform communication design and design justice. Through a case-study on activism on Twitter, I developed an analytical framework for communicators and designers to assess how their technology is embedded in broader parts of infrastructure, such as the U.S.-Mexico border. I also am a partner on The Rematriation Project, which is building an Indigenous-led, decolonial method of digital archiving.
+
+<!-- In Virginia Tech's English department, I teach and serve on committees in the *Rhetoric & Writing* Ph.D. program and *Professional & Technical Writing* undergraduate program.
+
+I am currently serving as the Chair of the Special Interest Group on the Writing and Rhetorics of Code ([SIGWROC](https://wroc.netlify.app/)). -->
 
 <!-- I am currently collaborating on 3 such projects:
 
@@ -85,4 +91,4 @@ I also apply computational social science methods to feminist and anti-racist rh
   2. A citation politics study in my discipline of Writing &amp; Rhetoric, which aims at monitoring and addressing any issues with the frequency and manner by which scholars who are multiply marginalized are cited and taken up over time and in particular journals.
   3. An Inuit-led rematriation project that will develop a digital community-learning archive that centers their communities' needs. We aim at bringing back Inuit knowledges that have been studied and discussed by academics but only for academics. -->
 
-{{< staticref "assets/media/clindgrencv.pdf" "newtab" >}} {{< icon name="download" pack="fas" >}} Download my CV{{< /staticref >}}.
+<!-- {{< staticref "assets/media/clindgrencv.pdf" "newtab" >}} {{< icon name="download" pack="fas" >}} Download my CV{{< /staticref >}}. -->
