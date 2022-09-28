@@ -9,5 +9,6 @@ node_modules/
 go.sum
 .hugo_build.lock
 .DS_Store
+*DS_Store
 assets/.DS_Store
 static/.DS_Store
