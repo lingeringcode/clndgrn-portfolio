@@ -13,7 +13,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2022-01-01T00:00:00Z"
+date: "2022-08-01T00:00:00Z"
 # isbn: "978-0-87421-994-4"
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +26,7 @@ date: "2022-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Forthcoming in *Reflections* (2022) Special Issue: Language, Access, and Power in Technical Communication"
+publication: "Building an Infrastructural Praxis: Understanding Twitter’s Embeddedness in the U.S.-Mexico Border. *Reflections: A Journal of Community-Engaged Writing and Rhetoric*. Special Issue: Language, Access, and Power in Technical Communication"
 
 abstract: In this article, we document how Twitter is embedded within the U.S.-Mexico border and used to reorganize the oppressive conditions perpetuated by the border’s sociopolitical history. We do so through a mixed-methods case-study of three polarized, yet tangled activist movements on Twitter, each of which responded to Trump’s border wall plans and zero-tolerance policy that separated asylum-seeking im/migrant children from their families. The hashtag movements included the liberal /#FamiliesBelongTogether supporters (FBT), Trump Republican \#BuildTheWall supporters (BTW), and liberal Anti-Wall (AW) \#NoBorderWall and \#TrumpShutDown denouncers. Overall, findings demonstrate how the liberal activist movements inherited systemic issues of the broader U.S.-Mexico border infrastructure. We call for TPC to continue developing research agendas that learn from social activist networks, so the field can understand its role in shaping the broader media infrastructure.
 
@@ -39,9 +39,9 @@ tags: [hashtag activism, border rhetorics, infrastructure]
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Chapter
-#   url: https://ccdigitalpress.org/book/strategic
+links:
+- name: Article
+  url: https://reflectionsjournal.net/2022/08/building-an-infrastructural-praxis-understanding-twitters-embeddedness-in-the-u-s-mexico-border/
 # url_pdf: ''
 # url_code: ''
 # url_dataset: ''
