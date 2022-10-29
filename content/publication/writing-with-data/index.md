@@ -44,7 +44,7 @@ featured: true
 #   url: http://example.org
 #lindgren-2021-wc-coding-with-data-onlinefirst.pdf
 
-url_pdf: './media/publications/lindgren-2021-wc-coding-with-data-onlinefirst.pdf'
+url_pdf: './assets/media/publications/lindgren-2021-wc-coding-with-data-onlinefirst.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

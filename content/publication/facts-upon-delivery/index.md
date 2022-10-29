@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: './media/publications/lindgren-jbtc-2021-facts-upon-delivery.pdf'
+url_pdf: './assets/media/publications/lindgren-jbtc-2021-facts-upon-delivery.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
