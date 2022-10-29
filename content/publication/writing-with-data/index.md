@@ -40,7 +40,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
+# - name: WCQ Link
 #   url: http://example.org
 #lindgren-2021-wc-coding-with-data-onlinefirst.pdf
 

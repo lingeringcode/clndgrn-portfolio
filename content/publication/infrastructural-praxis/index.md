@@ -42,7 +42,7 @@ featured: true
 links:
 - name: Article
   url: https://reflectionsjournal.net/2022/08/building-an-infrastructural-praxis-understanding-twitters-embeddedness-in-the-u-s-mexico-border/
-# url_pdf: ''
+url_pdf: './media/publications/Reflections_Lindgren_Fernandes_22.1_102122.pdf'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
