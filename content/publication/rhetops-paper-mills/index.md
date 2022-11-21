@@ -11,9 +11,9 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+- "Initial Concept, Method, Analyss, Writing"
+- "Initial Concept, Writing"
+- "Develop Concept, Method, Analysis, Writing"
 
 date: "2021-12-01T00:00:00Z"
 # isbn: "978-0-87421-994-4"
@@ -38,7 +38,7 @@ summary: By analyzing Google search engine results, we identified search optimiz
 tags: [paper mills, rhetops, digital rhetoric, contract cheating]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 links:

@@ -8,7 +8,10 @@
   flex-wrap: wrap;
 }
 #featured .col-12.col-lg-8 > * {
-  flex: 1 1 33.333333%;
+  flex: 1 1 30%;
+}
+#featured .col-12.col-lg-8 > *:first-child {
+  flex: 1 1 100%;
 }
 
 #featured .card-simple {
@@ -27,6 +30,13 @@
     max-width: 25%;
   }
 
+}
+
+@media screen and (max-width: 780px) {
+  #featured .col-12.col-lg-8 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
 }
 
 @media (min-width: 992px){ 

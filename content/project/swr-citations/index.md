@@ -1,5 +1,5 @@
 ---
-title: SWR Citational Dashboard (prototype)
+title: Tracking White Supremacist Citational Politics (prototype)
 summary: Prototype data dashboard for the broader Studies in Writing and Rhetoric (SWR) Citational Politics project. We will combine demographic data with citational data to help our discipline identify racist, sexist, and gender-based problems within our scholarship.
 
 tags:
