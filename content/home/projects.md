@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 40
 
 title: Projects
 subtitle: ''
@@ -27,8 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Techcomm
-    tag: technical and professional communication
+  - name: Social Justice
+    tag: social justice
+  - name: Content Design
+    tag: content design
   - name: Computational Rhetoric
     tag: computational rhetoric
 
@@ -41,7 +43,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false

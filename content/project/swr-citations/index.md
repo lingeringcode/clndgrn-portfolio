@@ -1,28 +1,22 @@
 ---
-title: "The Rematriation Project"
-summary: The Rematriation Project’s goal is to build a new model of ethical Inuit-led research and digital archiving methodology.
+title: SWR Citational Dashboard (prototype)
+summary: Prototype data dashboard for the broader Studies in Writing and Rhetoric (SWR) Citational Politics project. We will combine demographic data with citational data to help our discipline identify racist, sexist, and gender-based problems within our scholarship.
 
 tags:
 - social justice
-- technical and professional communication
-- rematriation
-- Inuit
-- digital archive
-- digital preservation
+- data visualization
+- citational politics
 
 # authors:
-# - Cana Uluak Itchuaqiyaq (Virginia Tech, Aqqaluk Trust Alum, Pungowiyi Family)
-# - Corina Kramer (Aqqaluk Trust, Pungowiyi Family)
 # - Chris Lindgren (Virginia Tech)
-# - Kara Long (Virginia Tech Libraries)
 
 date: "2022-11-21T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://rematriate.site"
+external_link: "https://swr-dashboard.appspot.com"
 
 image:
-  caption: What are we building? Data sovereignty.
+  caption: Example page from the data dashboard prototype
   focal_point: Smart
 
 # links:

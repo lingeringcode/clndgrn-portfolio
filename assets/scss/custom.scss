@@ -1,8 +1,52 @@
+// FEATURED SECTION //
+
+#featured .col-12.col-lg-8 {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+#featured .col-12.col-lg-8 > * {
+  flex: 1 1 33.333333%;
+}
+
+#featured .card-simple {
+  position: unset;
+  margin-top: 0;
+}
+
+#featured .card-simple .article-metadata {
+  display: none;
+}
+
 @media (min-width: 576px) {
   
   .featurette > div:not(:first-child) {
     flex: 0 0 25%;
     max-width: 25%;
+  }
+
+}
+
+@media (min-width: 992px){ 
+
+  // ALL SECTIONS, EXCEPT ABOUT
+  section:not(#about) {
+    .section-heading h1 {
+      writing-mode: vertical-lr;
+    }
+    .col-lg-4 {
+      flex: 0 0 15%;
+      max-width: 15%;
+    }
+    .col-lg-8 {
+      flex: 0 0 84%;
+      max-width: 84%;
+    }
+    .article-metadata .article-date {
+      display: none;
+    }
   }
 
 }

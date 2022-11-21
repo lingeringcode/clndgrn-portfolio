@@ -75,20 +75,4 @@ email: "chris.a.lindgren@gmail.com"
 highlight_name: true
 ---
 
-I'm an Assistant Professor of Technical Communication & Data Visualization in the English Department at Virginia Tech.
-
-**Critical Code & Data Studies, Visual Rhetoric, Coding Literacy**: I study computer coding and data as technical communication activities. I focus on understanding code and data as a process of communicating, rather than as a static product. My studies examine people, tools, and their context of work shapes and is also shaped by their coding and data during activities like data processing, analysis, and visualization. I have also previously published on the rhetorics that impact calls for a new mass literacy of coding.
-
-**Communication Design and Design Justice**: I also study and perform communication design and design justice. Through a case-study on activism on Twitter, I developed an analytical framework for communicators and designers to assess how their technology is embedded in broader parts of infrastructure, such as the U.S.-Mexico border. I also am a partner on The Rematriation Project, which is building an Indigenous-led, decolonial method of digital archiving. I have also studied how papermill companies have exploited the *.edu top-level domain to bolster the credibility and trick students into buying plagiarised papers.
-
-<!-- In Virginia Tech's English department, I teach and serve on committees in the *Rhetoric & Writing* Ph.D. program and *Professional & Technical Writing* undergraduate program.
-
-I am currently serving as the Chair of the Special Interest Group on the Writing and Rhetorics of Code ([SIGWROC](https://wroc.netlify.app/)). -->
-
-<!-- I am currently collaborating on 3 such projects:
-
-  1. A case-study of 3 Twitter hashtag groups, each of which responded to Trump's plans to build the border wall before, during, and after his administration's zero-tolerance immigration policy that separated children from their families: #FamiliesBelongTogether, #BuildTheWall, and environmentalists opposed to the borderwall. We are examining user participation across these hashtag groups, and their respective rhetorical framing of the issue, to better understand how digital platforms actually "redraw" material nation-state borders on their platforms, which impacts digital activism.
-  2. A citation politics study in my discipline of Writing &amp; Rhetoric, which aims at monitoring and addressing any issues with the frequency and manner by which scholars who are multiply marginalized are cited and taken up over time and in particular journals.
-  3. An Inuit-led rematriation project that will develop a digital community-learning archive that centers their communities' needs. We aim at bringing back Inuit knowledges that have been studied and discussed by academics but only for academics. -->
-
-<!-- {{< staticref "assets/media/clindgrencv.pdf" "newtab" >}} {{< icon name="download" pack="fas" >}} Download my CV{{< /staticref >}}. -->
+I study how code and data are a cultural process of communicating, rather than merely an output of blackboxed engineering. I have also studied how capitalistic rhetoric has impacted calls for a new mass literacy of coding. My research, teaching, and community-outreach projects take up a design justice approach to communication.
