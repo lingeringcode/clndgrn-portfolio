@@ -1,3 +1,20 @@
+:root {
+  --highlighter-yellow: #f6e632;
+  --deep-purple: #3a0172;
+}
+
+// GENERAL
+
+.home-section:nth-of-type(odd) {
+  
+  background: var(--highlighter-yellow);
+
+  a {
+    color: var(--deep-purple);
+  }
+
+}
+
 // FEATURED SECTION //
 
 #featured .col-12.col-lg-8 {
@@ -12,7 +29,26 @@
 }
 #featured .col-12.col-lg-8 > *:first-child {
   flex: 1 1 100%;
+  // grid
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-areas:
+  "pubimg pubimg pubimg pubimg title title"
+  "sum sum sum sum title title"
+  "btns btns btns btns title title"
+  ;
 }
+
+#featured .col-12.col-lg-8 > *:first-child > *:nth-child(2) { grid-area: pubimg; }
+#featured .col-12.col-lg-8 > *:first-child > *:nth-child(3) { 
+  grid-area: title;
+  margin-left: -30vw;
+  text-align: right;
+  
+  a { background-color: var(--highlighter-yellow); }
+}
+#featured .col-12.col-lg-8 > *:first-child > *:nth-child(4) { grid-area: sum; }
+#featured .col-12.col-lg-8 > *:first-child > *:nth-child(5) { grid-area: btns; }
 
 #featured .card-simple {
   position: unset;
@@ -36,6 +72,16 @@
   #featured .col-12.col-lg-8 {
     display: grid;
     grid-template-columns: 1fr 1fr;
+  }
+  #featured .col-12.col-lg-8 > *:first-child {
+    display: block;
+  }
+  #featured .col-12.col-lg-8 > *:first-child > *:nth-child(3) {
+    margin: 0;
+    background: none;
+    text-align: left;
+
+    a {background-color: transparent;}
   }
 }
 
