@@ -75,4 +75,6 @@ email: "chris.a.lindgren@gmail.com"
 highlight_name: true
 ---
 
-I study code and data as a cultural process of communicating. I want to understand and illustrate how coding and data work require us to think about it as engineering. Some of my past research has studied how capitalistic rhetoric has impacted calls for coding as the new mass literacy of our time. Overall, my research, teaching, and community-outreach projects take up a design justice approach to communication.
+I study computer coding and data-driven work as a cultural process of communicating. If I had one goal for my career, it would be to illustrate to others how coding and data work always involve more than engineering technical structures and systems. These highly technical practices have histories linked to broader social and cultural ideas and power, which we have a tendency to ignore and forget. I want to understand the impact of such histories on the decisions people make when they write and use code that writes and uses data. How does our coding maintain the societal problems, and how can we help technical professionals find value in a humanities perspective on their practices?
+
+Some of my past research has studied how capitalistic rhetoric has impacted calls for coding as the new mass literacy of our time. Overall, my research, teaching, and community-outreach projects take up a design justice approach to communication.
