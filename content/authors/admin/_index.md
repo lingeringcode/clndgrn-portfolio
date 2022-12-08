@@ -75,4 +75,4 @@ email: "chris.a.lindgren@gmail.com"
 highlight_name: true
 ---
 
-I study how code and data are a cultural process of communicating, rather than merely an output of blackboxed engineering. I have also studied how capitalistic rhetoric has impacted calls for a new mass literacy of coding. My research, teaching, and community-outreach projects take up a design justice approach to communication.
+I study code and data as a cultural process of communicating. I want to understand and illustrate how coding and data work require us to think about it as engineering. Some of my past research has studied how capitalistic rhetoric has impacted calls for coding as the new mass literacy of our time. Overall, my research, teaching, and community-outreach projects take up a design justice approach to communication.
