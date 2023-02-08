@@ -13,7 +13,7 @@ tags:
 date: "2022-11-21T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://swr-dashboard.appspot.com"
+external_link: "https://swrdash-env.eba-nges3stx.us-east-1.elasticbeanstalk.com/"
 
 image:
   caption: Example page from the data dashboard prototype
