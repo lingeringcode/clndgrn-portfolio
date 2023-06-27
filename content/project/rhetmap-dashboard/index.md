@@ -1,6 +1,6 @@
 ---
 title: "Rhetmap.org Job Dashboard Map (2012 - 2019)"
-summary: Data dashboard for the field per year, weeks 1-17. I work in coordination with Jim Ridolfo's data collection efforts.
+summary: Data dashboard for the field per year, weeks 1-17. I work in coordination with Jim Ridolfo's data collection efforts. Made with Tableau.
 tags:
 - data visualization
 - job market
