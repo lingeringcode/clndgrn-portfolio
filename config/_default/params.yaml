@@ -18,10 +18,10 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Chris Lindgren an Assistant Professor of Technical Communication & Data Visualization in the English Department at Virginia Tech. His research engages the intersections of critical code and critical data studies by studying computer coding as a culturally dynamic form of writing with data, as opposed to simply a result of automated technology alone.'
+    description: 'Chris Lindgren an Assistant Professor of Technical Communication & Data Visualization in the English Department at Virginia Tech. Research fields include critical data studies, critical code studies, communication design, and coding literacy.'
     twitter: 'lndgrn'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-J6KMVCGLN9'
     baidu_tongji: ''
   verification:
     google: ''
