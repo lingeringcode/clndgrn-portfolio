@@ -75,7 +75,7 @@ email: "chris.a.lindgren@gmail.com"
 highlight_name: true
 ---
 
-Broadly, I study computer coding and data-driven work as rhetorical forms of communication. I am invested in questions like *How are coding and data work rhetorical practices?*, *How do coding and data work perpetuate or create new societal problems?*, and *How can we help technical professionals find value in a humanities perspective on their practices?*
+Hello! I study computer coding and data-driven work as rhetorical forms of communication. I'm invested in questions like *How are coding and data work rhetorical practices?*, *How do coding and data work perpetuate or create new societal problems?*, and *How can we help technical professionals find value in a humanities perspective on their practices?*
 
 <!-- I aim to illustrate how coding and data work are more than their relationships with engineering, technical structures &amp; systems. Every new coding and data generation learn often narrow or myopic histories about computing: Code and data are neutral technologies, objective, and without bias. Despite so much evidence to the contrary, understanding code and data as always relational across, individuals, cultures, and society isn't the norm. My research frames code and data as forms of writing activity because such as reframing can shift our thinking about code/data as being culturally rhetorical. That its histories impact the decisions people make when they write and use code that writes and uses data.  -->
 
