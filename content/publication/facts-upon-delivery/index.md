@@ -36,7 +36,7 @@ summary: This article demonstrates how charts during the early months of the COV
 tags: [visual rhetoric, data rhetoric, data provenance, presence, interpretive levels]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
