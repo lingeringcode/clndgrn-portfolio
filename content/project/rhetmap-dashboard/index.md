@@ -16,7 +16,7 @@ image:
 
 links:
 - name: Website
-  url: https://public.tableau.com/views/RhetmapJobMarketDashboard/RhetmapMarketComparison?:language=en-US&:display_count=n&:origin=viz_share_link
+  url: https://lingeringcode.github.io/rhetmap-time-series/
 # url_code: "https://github.com/lingeringcode/rhetmap-time-series"
 url_pdf: ""
 url_slides: ""
