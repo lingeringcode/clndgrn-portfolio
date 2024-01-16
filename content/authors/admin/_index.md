@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chris Lindgren, Ph.D.
+title: Chris A. Lindgren
 
 # Is this the primary user of the site?
 superuser: true

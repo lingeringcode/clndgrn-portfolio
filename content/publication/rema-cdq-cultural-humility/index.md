@@ -25,7 +25,7 @@ date: "2023-09-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Decolonizing Community-engaged Research: Designing CER with Cultural Humility as a Foundational Value. *Communication Design Quarterly*, 11.3. Special Issue on Community-Engaged Research"
+publication: "*Communication Design Quarterly*"
 
 abstract: "In this article, we uptake the call for equipping researchers in practicing socially just CER in Indigenous communities through developing a framework for cultural humility in CER. Sparked by our research team’s experience considering the potential of CER to transform and contribute to the needs of both tribal and academic communities, we present cultural humility as a personal precondition for socially just, decolonial CER practice. We use the Inuit cultural practice of nalukataq as a key metaphor to present our framework for cultural humility: listening to the caller, setting your feet, pulling equally, staying in sync."
 
@@ -39,8 +39,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: TBA
-  # url:
+- name: DOI
+  url: https://dl.acm.org/doi/10.1145/3592367.3592369
 # url_pdf: './assets/media/publications/Reflections_Lindgren_Fernandes_22.1_102122.pdf'
 # url_code: ''
 # url_dataset: ''

@@ -31,12 +31,12 @@ publication: In *Technical Communication Quarterly*
 abstract: Prior scholarship argues that facts derived from data are not separate from their contexts and values. In this study of a data journalism team, I define and apply a sociotechnical network approach to stasis that maps their rhetorical actions with their quantitative work. The stasis network methodology identified how their process confronted competing definitions of metrics, which impacted their sense of what was significant and ethically possible, when developing the goals for their report.
 
 # Summary. An optional shortened abstract.
-summary: This article demonstrates how data professionals.
+summary: How do value judgments about data impact how professionals collect, process, analyze, and visualize data? I define and apply a stasis network methodology to study the rhetorical deliberations of a data journalism team.
 
 tags: [critical data studies, data rhetoric, stasis networks, data journalism]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:

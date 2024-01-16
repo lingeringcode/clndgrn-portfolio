@@ -36,7 +36,7 @@ summary: This article theorizes coding as a form of writing with data through a 
 tags: [code studies, software studies, computational literacy, materiality, intermediation, case study, data processing]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

@@ -19,7 +19,7 @@ tags:
 date: "2022-11-21T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://rematriate.site"
+external_link: "https://rematriate.net"
 
 image:
   caption: What are we building? Data sovereignty.
