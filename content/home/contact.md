@@ -25,19 +25,19 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: lindgren@vt.edu
+  email: calindgr@ncsu.edu
   # phone: 888 888 88 88
   address:
-    street: 207 Shanks Hall, 181 Turner Street NW
-    city: Blacksburg
-    region: VA
-    postcode: '24060'
+    street: 131D Tompkins Hall, 2211 Hillsborough St
+    city: Raleigh
+    region: NC
+    postcode: '27695'
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.23159324222182'
-    longitude: '-80.41944518487881'
-  directions: Enter Shanks Hall and take the stairs to Office 207 on Floor 2
+    latitude: '35.786740'
+    longitude: '-78.665150
+  # directions: Enter Shanks Hall and take the stairs to Office 207 on Floor 2
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
   #   - 'Wednesday 09:00 to 10:00'
