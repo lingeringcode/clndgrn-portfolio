@@ -6,19 +6,20 @@ title: Chris A. Lindgren
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor of Technical Communication and Data Visualization
+role: Assistant Professor of Technical Communication
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Virginia Tech
-  url: https://liberalarts.vt.edu/departments-and-schools/department-of-english/faculty/chris-aaron-lindgren.html
+- name: North Carolina State University
+  url: https://english.chass.ncsu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the relations we create when writing code and developing software.
+bio: My research interests include the rhetorics of data science work, as well as supporting community-engaged and self-determined Indigenous Data Sovereignty.
 
 # Interests to show in About widget
 interests:
-- critical code and data studies
+- critical data studies
+- Indigenous Data Sovereignty
 - data processing, analysis, and visualization
 - visual rhetoric
 - coding literacy
