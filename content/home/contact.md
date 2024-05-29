@@ -36,7 +36,7 @@ content:
     country_code: US
   coordinates:
     latitude: '35.786740'
-    longitude: '-78.665150
+    longitude: '-78.665150'
   # directions: Enter Shanks Hall and take the stairs to Office 207 on Floor 2
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
