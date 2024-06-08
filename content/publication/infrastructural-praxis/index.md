@@ -21,7 +21,7 @@ date: "2022-10-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Building an Infrastructural Praxis: Understanding Twitter’s Embeddedness in the U.S.-Mexico Border. *Reflections: A Journal of Community-Engaged Writing and Rhetoric*. Special Issue: Language, Access, and Power in Technical Communication"
@@ -31,7 +31,12 @@ abstract: In this article, we document how Twitter is embedded within the U.S.-M
 # Summary. An optional shortened abstract.
 summary: How is Twitter embedded within the U.S.-Mexico border, and how does Twitter reorganize the oppressive conditions perpetuated by the border’s sociopolitical history? We propose a theoretical framework for technical and professional communication to study and understand our role with infrastructure.
 
-tags: [hashtag activism, border rhetorics, infrastructure]
+tags:
+- hashtag activism
+- border rhetorics
+- infrastructure
+- social network analysis
+- Black Feminism
 
 # Display this page in the Featured widget?
 featured: true

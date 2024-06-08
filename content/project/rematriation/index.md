@@ -1,26 +1,17 @@
 ---
 title: "The Rematriation Project"
 summary: The Rematriation Project’s goal is to build a new model of ethical Inuit-led research and digital archiving methodology.
-
 tags:
+- Indigenous Data Sovereignty
 - social justice
-- technical and professional communication
+- technical communication
 - rematriation
 - Inuit
 - digital archive
 - digital preservation
-
-# authors:
-# - Cana Uluak Itchuaqiyaq (Virginia Tech, Aqqaluk Trust Alum, Pungowiyi Family)
-# - Corina Kramer (Aqqaluk Trust, Pungowiyi Family)
-# - Chris Lindgren (Virginia Tech)
-# - Kara Long (Virginia Tech Libraries)
-
 date: "2022-11-21T00:00:00Z"
-
 # Optional external URL for project (replaces project detail page).
 external_link: "https://rematriate.net"
-
 image:
   caption: What are we building? Data sovereignty.
   focal_point: Smart

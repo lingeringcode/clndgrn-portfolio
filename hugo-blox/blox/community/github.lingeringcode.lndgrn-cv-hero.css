@@ -1,0 +1,26 @@
+/* Add your block styles here */
+
+.home-section-bg, #section-github-lingeringcode-lndgrn-cv-hero {
+  padding: 0 !important;background-color: #f6e632;
+}
+
+.section__hero_banner {
+  padding: 20px 0;
+  position: relative;
+  z-index: -1;
+
+  .parallax {
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 300px;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+  }
+}

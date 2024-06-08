@@ -22,10 +22,7 @@ date: "2015-10-27T00:00:00Z"
 #publishDate: "2021-01-01T00:00:00Z"
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["6"]
+publication_types: ["chapter"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Writing Posthumanism, Posthuman Writing*
@@ -34,9 +31,13 @@ publication: In *Writing Posthumanism, Posthuman Writing*
 abstract: tttt.
 
 # Summary. An optional shortened abstract.
-summary: tttt.
+# summary:
 
-tags: [object-oriented rhetorics, One Laptop Per Child, rhetoric of technology, new media]
+tags:
+- object-oriented rhetorics
+- One Laptop Per Child
+- rhetoric of technology
+- new media
 
 # Display this page in the Featured widget?
 featured: false

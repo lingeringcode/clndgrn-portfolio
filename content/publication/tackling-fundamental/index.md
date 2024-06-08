@@ -25,7 +25,7 @@ isbn: "9780226176697"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["6"]
+publication_types: [chapter]
 
 # Publication name and optional abbreviated publication name.
 publication: "In *Rhetoric and Digital Humanities*"
@@ -35,7 +35,10 @@ publication: "In *Rhetoric and Digital Humanities*"
 # Summary. An optional shortened abstract.
 summary: This chapter reflects on the experience of a humanities-led computational literacy program and offers 6 strategies for similar programs.
 
-tags: [computational literacy, code year, coding literacy]
+tags:
+- computational literacy
+- code year
+- coding literacy
 
 # Display this page in the Featured widget?
 featured: false

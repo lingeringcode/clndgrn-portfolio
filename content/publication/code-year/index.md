@@ -12,18 +12,14 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-
 date: "2015-10-01T00:00:00Z"
 isbn: "978-0-87421-994-4"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2021-01-01T00:00:00Z"
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["6"]
+# Publication type. CSL Standards: https://support.papersapp.com/support/solutions/articles/30000046426-papers-csl-types-fields
+publication_types: ["chapter"]
 
 # Publication name and optional abbreviated publication name.
 publication: "In *Strategic Discourse: The Politics of (New) Literacy Crises*"
@@ -33,7 +29,10 @@ abstract: In this chapter, Brooks and Lindgren consider how literacy crisis disc
 # Summary. An optional shortened abstract.
 summary: What roles do literacy experts have to play in responding to the coding crisis discourse? This chapter considers how literacy crisis discourses have been reinvented in the twenty-first century.
 
-tags: [computational literacy, code year, coding literacy]
+tags:
+- computational literacy
+- code year
+- coding literacy
 
 # Display this page in the Featured widget?
 featured: false

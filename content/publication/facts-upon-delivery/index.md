@@ -19,10 +19,7 @@ doi: "10.1177/1050651920958499"
 #publishDate: "2021-01-01T00:00:00Z"
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Journal of Business and Technical Communication*
@@ -33,7 +30,12 @@ abstract: What expectations should professionals and the public place on visuals
 # Summary. An optional shortened abstract.
 summary: This article demonstrates how charts during the early months of the COVID-19 pandemic articulated visual arguments yet also required extended communicative support upon their delivery.
 
-tags: [visual rhetoric, data rhetoric, data provenance, presence, interpretive levels]
+tags:
+- visual rhetoric
+- critical data studies
+- data visualization
+- provenance
+- COVID-19
 
 # Display this page in the Featured widget?
 featured: false

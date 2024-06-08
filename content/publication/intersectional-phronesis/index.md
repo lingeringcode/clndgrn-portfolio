@@ -26,10 +26,7 @@ date: "2019-04-27T00:00:00Z"
 #publishDate: "2021-01-01T00:00:00Z"
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the Annual Computers & Writing Conference, 2018*
@@ -40,7 +37,10 @@ abstract: In this paper, the authors consider how their engaged practices of fem
 # Summary. An optional shortened abstract.
 summary: In this paper, the authors consider how their engaged practices of feminist ethics have come up against specific dominant normatives.
 
-tags: [feminist ethics, intersectional phronesis, research practices]
+tags:
+- feminist ethics
+- intersectional phronesis
+- research practices
 
 # Display this page in the Featured widget?
 featured: false
