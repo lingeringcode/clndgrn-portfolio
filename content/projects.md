@@ -6,6 +6,7 @@ type: landing
 design:
   # Section spacing
   spacing: '2rem'
+  css_class: light
 
 # Page sections
 sections:
