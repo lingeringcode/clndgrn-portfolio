@@ -58,6 +58,6 @@ interests:
 
 ## About Me
 
-I study computer coding and data-driven work as rhetorical forms of critical communication. I'm invested in questions like *How are coding and data work social and rhetorical practices?*, *How do coding and data work perpetuate or create new societal problems?*, and *How can we help technical professionals find value in a humanities perspective on their practices?*
+I study computer coding and data-driven work as rhetorical forms of critical communication. My research interests include the rhetorics of data science work and developing new approaches to community-engaged and self-determined Indigenous Data Sovereignty.
 
 Some of my past research has studied how capitalistic rhetoric has impacted calls for coding as the new mass literacy of our time. Overall, my research, teaching, and community-outreach projects take up a design justice approach to digital communication.
