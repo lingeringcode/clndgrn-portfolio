@@ -130,6 +130,10 @@ h1,h2,h3,h4,h5,h6,.text-3xl {
 #section-github-lingeringcode-lndgrn-cv-hero {
   padding: 0 !important;
   background-color: #f6e632;
+
+  @media screen and (max-width: 540px) and (orientation: portrait) {
+    display: none;
+  }
 }
 .section__hero_banner {
   padding: 20px 0;
