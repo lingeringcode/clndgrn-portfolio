@@ -57,6 +57,10 @@ body,h1,h2,h3,h4,h5,h6,p,blockquote,div {
 
 .page-body {
   background: var(--secondaryShade2);
+
+  & .dark:text-white {
+    color: var(--foregroundColor) !important;
+  }
 }
 .page-body.my-10 {
   margin: 0 !important;
@@ -184,6 +188,7 @@ h1,h2,h3,h4,h5,h6,.text-3xl {
 #projects {
   display: grid;
   grid-template-columns: repeat(10, 1fr);
+  background-color: var(--backgroundColor);
 
   &> :nth-child(3) {
     grid-column: 2/-1;
