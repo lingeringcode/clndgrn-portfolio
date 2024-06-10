@@ -178,7 +178,7 @@ h1,h2,h3,h4,h5,h6,.text-3xl {
 
       &> :nth-child(2),
       &> :nth-child(3) {
-        color: var(--foregroundColor);
+        color: var(--foregroundColor) !important;
       }
     }
     .prose,p,ul,ol,li,.section-subheading {
