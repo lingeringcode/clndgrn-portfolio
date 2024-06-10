@@ -91,7 +91,7 @@ body,h1,h2,h3,h4,h5,h6,p,blockquote,div {
 :is(.dark .dark\:bg-gray-800) {
   --tw-bg-opacity: 1;
   background-color: rgb(var(--color-secondary)/var(--tw-bg-opacity));
-  color: var(--backgroundColor);
+  color: var(--foregroundColor);
 }
 
 /* TYPOGRAPHY */
