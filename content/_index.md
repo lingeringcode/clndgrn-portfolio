@@ -23,9 +23,9 @@ sections:
         text: Download CV
         url: 'assets/media/clindgrencv.pdf'
     design:
-      css_class: dark
+      css_class: light
       background:
-        color: black
+        color: light
   - block: collection
     id: recent-publications
     content:

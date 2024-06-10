@@ -50,6 +50,10 @@
   --color-secondary-300: 239 154 154;
 }
 
+body,h1,h2,h3,h4,h5,h6,p,blockquote,div {
+  color: var(--foregroundColor);
+}
+
 /* GENERAL CUSTOMIZATIONS */
 
 .page-body {
