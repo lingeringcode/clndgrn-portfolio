@@ -134,7 +134,10 @@ h1,h2,h3,h4,h5,h6,.text-3xl {
   padding: 0 !important;
   background-color: var(--secondaryShade2);
 
-  @media screen and (orientation: landscape) and (orientation: portrait) {
+  @media screen and (orientation: portrait) {
+    display: none;
+  }
+  @media screen and (orientation: landscape) {
     display: none;
   }
 }
