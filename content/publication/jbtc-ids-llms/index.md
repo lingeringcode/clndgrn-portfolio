@@ -1,5 +1,5 @@
 ---
-title: "Technical communication's fight against extractive large language modeling with FAIR and CARE principles of data"
+title: "Technical communication's fight against extractive large language modeling by applying FAIR and CARE principles of data"
 
 # Display this page in the Featured widget?
 featured: true
@@ -49,13 +49,13 @@ tags:
 #   url: http://example.org
 
 # url_pdf: './assets/media/publications/lindgren-2024-tcq-stasis-networks.pdf'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
