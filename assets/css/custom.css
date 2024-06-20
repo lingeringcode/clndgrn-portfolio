@@ -55,6 +55,60 @@ body,h1,h2,h3,h4,h5,h6,p,blockquote,div {
 
 /* GENERAL CUSTOMIZATIONS */
 
+.nav__logo_container {
+
+  @media screen and (max-width: 336px) {
+    margin-bottom: 1rem;
+  }
+}
+
+.page-header .navbar-brand {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+
+  &> div {
+    font-family: var(--headingFonts), serif;
+    font-size: 1.75rem;
+    color: var(--secondaryColor);
+    transition: font-size 0.5s;
+  }
+
+  & img {
+    background: var(--secondaryShade2);
+    border-radius: 50%;
+    box-shadow: var(--secondaryShade5) 1.1px 0.38px 4px -1px;
+    transition: height 0.5s;
+    height: 72px !important;
+  }
+
+  & span {
+    display: block;
+    font-family: var(--copyFonts), sans-serif;
+    font-size: 0.75rem;
+    font-style: italic;
+    color: var(--secondaryColor);
+    transition: font-size 0.5s;
+  }
+}
+
+.navbar-brand img {
+  max-height: 250px;
+}
+
+.page-header.scrolled .navbar-brand img {
+  height: 45px !important;
+}
+.page-header.scrolled .navbar-brand {
+  font-size: 1.25rem !important;
+  transition: font-size 0.5s;
+}
+.page-header.scrolled .navbar-brand span {
+  font-size: 0.5rem !important;
+  transition: font-size 0.5s;
+}
+
 .page-body {
   background: var(--secondaryShade2);
 

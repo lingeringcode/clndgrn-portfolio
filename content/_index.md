@@ -3,6 +3,7 @@
 title: ""
 date: 2022-10-24
 type: landing
+js: '/assets/js/scripts.js'
 
 show_breadcrumb: true
 
@@ -13,7 +14,7 @@ design:
 sections:
   - block: 'github.lingeringcode.lndgrn-cv-hero'
     content:
-      hero_bg_image_url: '/assets/media/ferrite-core-magnetic-memory-5-patent-fig.png'
+      hero_bg_image_url: '/assets/media/ferrite-core-magnetic-memory-5-patent-fig-logo.png'
   - block: resume-biography-3
     content:
       username: admin
@@ -49,3 +50,5 @@ sections:
       view: article-grid
       columns: 1
 ---
+
+<script defer src="/assets/js/script.js"></script>

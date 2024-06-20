@@ -29,7 +29,7 @@ weight = 1  # Order that this section will appear.
   # gradient_end = "ForestGreen"
   
   # Background image in `static/media/`
-  image = "ferrite-core-magnetic-memory-5-patent-fig.svg" 
+  image = "ferrite-core-magnetic-memory-5-patent-fig.png"
   image_darken = 0.6
   #  Options are `cover` (default), `contain`, or `actual` size
   image_size = "cover"
