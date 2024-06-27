@@ -49,7 +49,7 @@
   --color-secondary-300: 239 154 154;
 }
 
-body,h1,h2,h3,h4,h5,h6,p,blockquote,div {
+body,h1,h2,h3,h4,h5,h6,p,blockquote,div,a {
   color: var(--foregroundColor);
 }
 
@@ -121,16 +121,22 @@ body,h1,h2,h3,h4,h5,h6,p,blockquote,div {
 }
 .page-body.my-10 {
   margin: 0 !important;
+  background: var(--backgroundColor);
 
   & .items-center {
+    background: var(--backgroundColor);
 
     & .container {
       display: grid;
       grid-template-columns: 1fr 1fr;
       gap: 1rem;
       max-width: 80ch !important;
+      background: var(--backgroundColor);
 
       & a.mb-5 {
+        margin: 1rem;
+        background: var(--secondaryShade2);
+        border: solid 1px var(--secondaryShade5);
 
         & .md\:flex {
           display: block;
@@ -140,6 +146,15 @@ body,h1,h2,h3,h4,h5,h6,p,blockquote,div {
             width: 100%;
           }
         }
+      }
+    }
+
+    /* CITATIONS */
+    & .mt-16.sm\:mt-20.container {
+      display: block;
+
+      @media screen and (max-width:780px) {
+        padding: 2rem;
       }
     }
   }
