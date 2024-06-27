@@ -119,9 +119,15 @@ body,h1,h2,h3,h4,h5,h6,p,blockquote,div,a {
   a {
     color: var(--primaryShade5);
   }
+  .grow p a {
+    color: var(--foregroundColor);
+  }
 
   & .dark\:text-white {
     color: var(--foregroundColor) !important;
+    a {
+      color: var(--foregroundColor) !important;
+    }
   }
   & .dark\:bg-zinc-900 {
     background-color: var(--backgroundColor);
