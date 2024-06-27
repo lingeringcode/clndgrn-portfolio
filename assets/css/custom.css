@@ -112,6 +112,10 @@ body,h1,h2,h3,h4,h5,h6,p,blockquote,div,a {
 .page-body {
   background: var(--secondaryShade2);
 
+  a {
+    color: var(--primaryShade5);
+  }
+
   & .dark\:text-white {
     color: var(--foregroundColor) !important;
   }
