@@ -53,6 +53,10 @@ body,h1,h2,h3,h4,h5,h6,p,blockquote,div,a {
   color: var(--foregroundColor);
 }
 
+.text-primary-700.dark\:text-primary-200 {
+  color: var(--primaryColor);
+}
+
 /* GENERAL CUSTOMIZATIONS */
 
 .nav__logo_container {
