@@ -63,8 +63,8 @@ body,h1,h2,h3,h4,h5,h6,p,blockquote,div,a {
 }
 
 .network-icon {
-  a {
-    color: var(--secondaryShade5);
+  a > svg {
+    color: var(--secondaryColor);
   }
 }
 
