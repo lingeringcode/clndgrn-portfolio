@@ -215,6 +215,26 @@ h1,h2,h3,h4,h5,h6,.text-3xl {
   --tw-gradient-stops: var(--tw-gradient-from),var(--tw-gradient-to);
 }
 
+/* Buttons */
+a.rounded-md {
+  background-color: var(--secondaryColor);
+  color: var(--backgroundColor);
+
+  span {
+    background-color: var(--secondaryColor);
+    color: var(--backgroundColor);
+  }
+}
+a.rounded-lg {
+  background-color: var(--secondaryColor);
+  color: var(--backgroundColor);
+
+  svg {
+    background-color: var(--secondaryColor);
+    color: var(--backgroundColor);
+  }
+}
+
 /* Special Type Cases */
 .li-cite-author {
   &> .font-bold {
