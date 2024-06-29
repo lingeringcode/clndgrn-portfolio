@@ -218,22 +218,53 @@ h1,h2,h3,h4,h5,h6,.text-3xl {
 }
 
 /* Buttons */
-a.rounded-md {
-  background-color: var(--secondaryColor);
-  color: var(--backgroundColor);
+section {
 
-  span {
-    background-color: var(--secondaryColor);
-    color: var(--backgroundColor);
+  a.rounded-md {
+  background-color: var(--secondaryColor);
+  color: var(--backgroundColor) !important;
+  transition: 0.15s;
+  font-weight: 700;
+
+    span {
+      transition: 0.15s;
+    }
+
+    &:hover {
+      --tw-bg-opacity: 1;
+      background-color: rgb(249 250 251/var(--tw-bg-opacity));
+      color: var(--secondaryColor);
+      transition: 0.15s;
+
+      & span {
+        color: var(--secondaryColor);
+        transition: 0.15s;
+      }
+    }
   }
 }
+
 a.rounded-lg {
   background-color: var(--secondaryColor);
   color: var(--backgroundColor);
+  transition: 0.15s;
 
   svg {
     background-color: var(--secondaryColor);
     color: var(--backgroundColor);
+    transition: 0.15s;
+  }
+
+  &:hover {
+    background-color: var(--backgroundColor);
+    color: var(--secondaryColor);
+    transition: 0.15s;
+
+    & svg {
+      background-color: var(--backgroundColor);
+      color: var(--secondaryColor);
+      transition: 0.15s;
+    }
   }
 }
 
