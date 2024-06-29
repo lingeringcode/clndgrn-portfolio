@@ -130,8 +130,10 @@ body,h1,h2,h3,h4,h5,h6,p,blockquote,div,a {
   a {
     color: var(--primaryShade5);
   }
-  .grow p a {
+  .grow p a,
+  .bio-text a {
     color: var(--foregroundColor);
+    font-weight: 700;
   }
 
   & .dark\:text-white {
