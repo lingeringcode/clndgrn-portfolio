@@ -1,0 +1,56 @@
+{{/* Custom CV Page Hero Banner */}}
+{{/* https://hugoblox.com */}}
+
+{{/* Initialise the block */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+{{/* Your Hugo variables */}}
+{{/* Access custom front matter content via `$block.content`. */}}
+{{/* E.g. access a `title` field via `$block.content.title`. */}}
+{{/* Pipe the field to `$page.RenderString` to parse it as Markdown. */}}
+{{/* $title := $block.content.title | $page.RenderString */}}
+{{/* $text := $block.content.text | $page.RenderString */}}
+
+{{/* Add your block layout below */}}
+{{/* Styles (in the form of vanilla CSS) can be added to the CSS file. */}}
+{{/* Tailwind styles can optionally be used with the extra step of compiling Tailwind. */}}
+{{/* Access custom front matter design options via `$block.design`. */}}
+{{/* E.g. access a `show_title` field via `$block.design.show_title`. */}}
+
+<style>
+  /* CV HERO */
+  .home-section-bg,
+  #section-github-lingeringcode-lndgrn-cv-hero {
+    padding: 0 !important;
+    background-color: var(--secondaryShade2);
+  }
+  .section__hero_banner {
+    padding: 20px 0;
+    position: relative;
+    /* z-index: -1; */
+    min-height: 315px;
+    position: relative;
+    z-index: 0;
+
+    .parallax {
+      background-position: 50%;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+      min-height: 315px;
+
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 100%;
+      z-index: -1;
+    }
+  }
+</style>
+<header id="header" class="section__hero_banner home-section wg-blank dark" style="padding:0 !important;background-color: var(--secondaryShade2);">
+  <div class="parallax" style="background-image:url({{$block.content.hero_bg_image_url}});background-size:cover;background-position:50%;filter:brightness(.1);min-height:300px;"></div>
+</header>
+
+<script src="/assets/js/scripts.js" defer></script>

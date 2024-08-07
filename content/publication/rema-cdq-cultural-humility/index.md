@@ -22,7 +22,7 @@ date: "2023-09-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Communication Design Quarterly*"
@@ -32,7 +32,11 @@ abstract: "In this article, we uptake the call for equipping researchers in prac
 # Summary. An optional shortened abstract.
 summary: "We use the Inuit cultural practice of nalukataq as a key metaphor to present our community-engaged research framework for cultural humility: listening to the caller, setting your feet, pulling equally, staying in sync."
 
-tags: [hashtag activism, border rhetorics, infrastructure]
+tags:
+- community-engaged research
+- Cultural Humility
+- Indigenous Data Sovereignty
+- nalukataq
 
 # Display this page in the Featured widget?
 featured: true
@@ -41,7 +45,7 @@ featured: true
 links:
 - name: DOI
   url: https://dl.acm.org/doi/10.1145/3592367.3592369
-# url_pdf: './assets/media/publications/Reflections_Lindgren_Fernandes_22.1_102122.pdf'
+# url_pdf: ''
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

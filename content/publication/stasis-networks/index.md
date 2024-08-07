@@ -19,10 +19,7 @@ doi: "10.1080/10572252.2024.2306259"
 #publishDate: "2021-01-01T00:00:00Z"
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Technical Communication Quarterly*
@@ -33,7 +30,13 @@ abstract: Prior scholarship argues that facts derived from data are not separate
 # Summary. An optional shortened abstract.
 summary: How do value judgments about data impact how professionals collect, process, analyze, and visualize data? I define and apply a stasis network methodology to study the rhetorical deliberations of a data journalism team.
 
-tags: [critical data studies, data rhetoric, stasis networks, data journalism]
+tags:
+- critical data studies
+- data science
+- qualitative research
+- social network analysis
+- stasis networks
+- data journalism
 
 # Display this page in the Featured widget?
 featured: true

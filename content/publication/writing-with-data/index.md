@@ -19,10 +19,7 @@ doi: "10.1177/0741088320968061"
 #publishDate: "2021-01-01T00:00:00Z"
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Written Communication*
@@ -31,12 +28,18 @@ publication: In *Written Communication*
 abstract: Coding has typically been understood as an engineering practice, where the meaning of code has discrete boundaries as a technology that does precisely what it says. Multidisciplinary code studies reframed this technological perspective by positing code as the latest form of writing, where code’s meaning is always partial and dependent on situational factors. Building out from this premise, this article theorizes coding as a form of writing with data through a qualitative case study of a web developer’s coding on a data-journalism team. I specifically theorize code as a form of intermediary writing to examine how his coding to process and analyze data sets involved the construction and negotiation of emergent problems throughout his coding tasks. Findings suggest how he integrated previous coding experience with an emerging sense of how code helped him write and revise the data. I conclude by considering the implications of these findings and discuss how writing and code studies could develop mutually informative approaches to coding as a situated and relational writing activity.
 
 # Summary. An optional shortened abstract.
-summary: This article theorizes coding as a form of writing with data through a qualitative case study of a web developer’s coding on a data-journalism team
+summary: Findings indicate how coding in a data-science context involved creative problem solving and meaning-making to (re)write the data during each process to create a journalistic data story.
 
-tags: [code studies, software studies, computational literacy, materiality, intermediation, case study, data processing]
+tags:
+- critical data studies
+- materiality
+- intermediation
+- data journalism
+- data science
+- data processing
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
