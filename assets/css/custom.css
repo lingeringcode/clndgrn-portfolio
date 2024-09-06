@@ -318,6 +318,10 @@ a.rounded-lg {
     .avatar {
       max-width: 250px;
       max-height: 250px;
+      background-color: var(--secondaryShade3);
+      margin: 0;
+      padding: 0;
+      box-shadow: 1px 0.25px 3px 0px var(--secondaryColor);
     }
     .network-icon {
       color: rgb(var(--color-secondary)/var(--tw-text-opacity));
