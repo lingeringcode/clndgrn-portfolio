@@ -17,8 +17,8 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2024-05-01T00:00:00Z"
-# doi: "10.1080/10572252.2024.2306259"
+date: "2024-09-24T00:00:00Z"
+doi: "10.1177/10506519241280587"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2024-12-01T00:00:00Z"
@@ -44,11 +44,11 @@ tags:
 - Large Language Modeling
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: JBTC Link
+  url: https://journals.sagepub.com/doi/full/10.1177/10506519241280587
 
-# url_pdf: './assets/media/publications/lindgren-2024-tcq-stasis-networks.pdf'
+url_pdf: './assets/media/publications/lindgren-yunes-itchuaqiyaq-2024-technical-communications-fight-against-extractive-LLM.pdf'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
