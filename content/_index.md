@@ -31,7 +31,7 @@ sections:
     id: recent-publications
     content:
       title: Recent Publications
-      text: ""
+      # text: ""
       filters:
         folders:
           - publication
