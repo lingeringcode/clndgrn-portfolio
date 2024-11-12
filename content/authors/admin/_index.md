@@ -33,8 +33,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:chris.a.lindgren@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/lndgrn
+  - icon: brands/org-bsky
+    url: https://bsky.app/profile/lingeringcode.bsky.social
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
   - icon: brands/github
