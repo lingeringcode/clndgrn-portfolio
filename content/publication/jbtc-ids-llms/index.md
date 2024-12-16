@@ -17,7 +17,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2024-09-24T00:00:00Z"
+date: "2025-01-01T00:00:00Z"
 doi: "10.1177/10506519241280587"
 
 # Schedule page publish date (NOT publication's date).
@@ -27,13 +27,13 @@ doi: "10.1177/10506519241280587"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Business and Technical Communication* (forthcoming Jan. 2025, 39.1)
+publication: In *Journal of Business and Technical Communication* (Jan. 2025, 39.1)
 # publication_short: In *TCQ*
 
 abstract: In this article, we assess the data practices of the prominent AI-assisted writing technology, Grammarly, by applying data principles that advocate for empowering Indigenous Data Sovereignty (IDSov). Our assessment is informed by our work with an Inuit tribal organization from rural Arctic Alaska that generates data and metadata about potentially sacred tribal activities. Our analysis of Grammarly’s large-language modeling practices demonstrates how technical communication can hold businesses to principled data practices created by Indigenous nations and communities who understand how to create more just futures.
 
 # Summary. An optional shortened abstract.
-summary: Forthcoming Jan. 2025 (39.1). We assess the data practices of the prominent AI-assisted writing technology, Grammarly, by applying data principles that advocate for empowering Indigenous Data Sovereignty (IDSov).
+summary: We assess the data practices of the prominent AI-assisted writing technology, Grammarly, by applying data principles that advocate for empowering Indigenous Data Sovereignty (IDSov).
 
 tags:
 - Indigenous Data Sovereignty

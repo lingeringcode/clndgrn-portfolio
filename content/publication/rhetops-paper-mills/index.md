@@ -15,7 +15,7 @@ author_notes:
 - "Initial Concept, Writing"
 - "Develop Concept, Method, Analysis, Writing"
 
-date: "2021-12-01T00:00:00Z"
+date: "2022-01-01T00:00:00Z"
 # isbn: "978-0-87421-994-4"
 
 # Schedule page publish date (NOT publication's date).
