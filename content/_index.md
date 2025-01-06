@@ -31,8 +31,11 @@ sections:
     id: recent-publications
     content:
       title: Recent Publications
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 6
       # text: ""
       filters:
+        # featured_only: true
         folders:
           - publication
         exclude_featured: false

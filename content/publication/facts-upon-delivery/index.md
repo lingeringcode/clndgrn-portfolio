@@ -38,7 +38,7 @@ tags:
 - COVID-19
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
