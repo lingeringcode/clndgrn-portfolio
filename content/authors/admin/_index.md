@@ -14,7 +14,7 @@ organizations:
   url: https://english.chass.ncsu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the rhetorics of data science work, as well as supporting community-engaged and self-determined Indigenous Data Sovereignty.
+bio: My research interests include the rhetorics of data work, as well as supporting community-engaged and self-determined Indigenous Data Sovereignty.
 
 # Full name (for SEO)
 first_name: Chris
@@ -58,7 +58,7 @@ interests:
 
 ## About Me
 
-I study computer coding and data-driven work as rhetorical communication. My research interests include the rhetorics of data science work and developing new approaches to community-engaged and self-determined Indigenous Data Sovereignty.
+I study computer coding and data-driven work as rhetorical communication. My research interests include the rhetorics of data work -- from data science to digital archiving -- and developing new protocols and models for community-engaged and self-determined Indigenous Data Sovereignty.
 
 Some of my past research has studied how capitalistic rhetoric has impacted calls for coding as the new mass literacy and using novel methods to study the communication design of digital platforms as political infrastructure. Overall, my research, teaching, and community-outreach projects take up a design justice approach to digital communication.
 
