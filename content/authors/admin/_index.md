@@ -51,9 +51,9 @@ interests:
   - critical data studies
   - Indigenous Data Sovereignty
   - data processing, analysis, and visualization
-  - visual rhetoric
   - coding literacy
-  - designing communication for justice
+  - design justice
+  - visual rhetoric
 ---
 
 ## About Me
