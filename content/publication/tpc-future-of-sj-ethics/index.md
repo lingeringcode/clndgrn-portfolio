@@ -25,7 +25,7 @@ doi: "10.4324/9781003434375-46"
 publication_types: ["chapter"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *The Routledge Handbook of Ethics in Technical and Professional Communication*
+publication: In *The Routledge Handbook of Ethics in Technical and Professional Communication (pp. 420-430)*
 # publication_short: In *JBTC*
 
 abstract: Since the early 2010s, technical and professional communicators (TPC) scholars have outwardly advocated for a focus on equity, justice, and inclusion in its research methodologies, topics, and guiding principles. These goals may sound inherently ethical, and ethics and social justice overlap in numerous ways. However, such overlaps often lead technical communicators to unintentionally conflate them and inappropriately apply them. The future of ethics and social justice in TPC depends on recognizing such differences, so TPC can critically evaluate whether or not their ethic is socially just. In this chapter, we plot these overlaps and differences and explain how ethics and social justice are two fundamental pillars of TPC’s future of advocacy work for equitable changes to complex social issues. We use three mini-cases from our work to demonstrate these overlaps and differences.
