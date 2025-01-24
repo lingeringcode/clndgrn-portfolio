@@ -1,26 +1,26 @@
 ---
-title: "Rhetmap.org Job Dashboard Map (2012 - 2019)"
-summary: Data dashboard for the field per year, weeks 1-17. I work in coordination with Jim Ridolfo's data collection efforts. Made with Tableau.
+title: "Rhetmap.org Job Dashboard"
+summary: Data dashboard for the Rhetoric, Composition, and TPC.
 tags:
 - data visualization
 - job market
 
-date: "2018-01-01T00:00:00Z"
+date: "2025-01-24T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-# external_link: ""
+external_link: "https://lingeringcode.observablehq.cloud/rmdash/"
 
 image:
   caption: Screen image of dashboard interface.
   focal_point: Smart
 
-links:
-- name: Website
-  url: https://lingeringcode.github.io/rhetmap-time-series/
-# url_code: "https://github.com/lingeringcode/rhetmap-time-series"
-url_pdf: ""
-url_slides: ""
-url_video: ""
+# links:
+# - name: Website
+#   url: 
+# # url_code: "https://github.com/lingeringcode/rmdash"
+# url_pdf: ""
+# url_slides: ""
+# url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -30,4 +30,4 @@ url_video: ""
 #slides: example
 ---
 
-# Rhetmap.org Dashboard
+# Rhetmap.org Job Dashboard
