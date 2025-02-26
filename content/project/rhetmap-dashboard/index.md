@@ -14,9 +14,9 @@ image:
   caption: Screen image of dashboard interface.
   focal_point: Smart
 
-# links:
-# - name: Website
-#   url: 
+links:
+- name: DOI
+  url: "https://doi.org/10.5281/zenodo.14933340"
 # # url_code: "https://github.com/lingeringcode/rmdash"
 # url_pdf: ""
 # url_slides: ""
