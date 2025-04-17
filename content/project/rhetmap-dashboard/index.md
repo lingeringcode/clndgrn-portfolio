@@ -15,7 +15,7 @@ image:
   focal_point: Smart
 
 links:
-- name: DOI
+- name: Code Repo DOI
   url: "https://doi.org/10.5281/zenodo.14933340"
 # # url_code: "https://github.com/lingeringcode/rmdash"
 # url_pdf: ""
