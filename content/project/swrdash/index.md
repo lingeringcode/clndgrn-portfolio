@@ -1,6 +1,6 @@
 ---
 title: Intersectional Citational Politics Data Dashboard (prototype)
-summary: Second prototype dashboard that demonstrates tracking and assessing citational issues, politics, and exemplars in diversity, equity, and inclusion practices. APA Citation -- Lindgren, C. A. (2025). SWR-Citation-Project/swrdash- Initial release (0.1.0). Zenodo. https://doi.org/10.5281/zenodo.15237261
+summary: Second prototype dashboard that demonstrates tracking and assessing citational issues, politics, and exemplars in diversity, equity, and inclusion practices. APA Citation -- Lindgren, C. A. (Oct. 2022). SWR-Citation-Project/swrdash- Initial release (0.1.0). Zenodo. https://doi.org/10.5281/zenodo.15237261
 
 tags:
 - social justice
@@ -10,14 +10,14 @@ tags:
 # authors:
 - admin
 
-date: "2025-04-16T00:00:00Z"
+date: "2022-10-22T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: "https://lingeringcode.pythonanywhere.com/"
 
 image:
   caption: Example page from the data dashboard prototype
-  focal_point: Smart
+  focal_point: top
 
 links:
 - name: Live Demo
