@@ -10,14 +10,14 @@ tags:
 # authors:
 - admin
 
-date: "2022-10-22T00:00:00Z"
+date: "2022-11-22T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: "https://lingeringcode.pythonanywhere.com/"
 
 image:
   caption: Example page from the data dashboard prototype
-  focal_point: top
+  focal_point: Smart
 
 links:
 - name: Live Demo
