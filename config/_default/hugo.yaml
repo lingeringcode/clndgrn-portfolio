@@ -25,7 +25,10 @@ build:
   writeStats: true
 enableGitInfo: false
 summaryLength: 35
-paginate: 15
+pagination:
+  disableAliases: false
+  pagerSize: 4
+  path: page
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
@@ -53,3 +56,6 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+params:
+  icons:
+    throw_on_error: true

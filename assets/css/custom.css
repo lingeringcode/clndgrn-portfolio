@@ -157,7 +157,7 @@ body,h1,h2,h3,h4,h5,h6,p,blockquote,div,a {
       display: grid;
       grid-template-columns: 1fr 1fr;
       gap: 1rem;
-      max-width: 80ch !important;
+      max-width: 100ch !important;
       background: var(--backgroundColor);
 
       & a.mb-5 {

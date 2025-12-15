@@ -8,7 +8,7 @@ tags:
 date: "2025-01-24T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://lingeringcode.observablehq.cloud/rmdash/"
+external_link: "https://rmdash.netlify.app/"
 
 image:
   caption: Screen image of dashboard interface.
@@ -17,7 +17,7 @@ image:
 links:
 - name: Code Repo DOI
   url: "https://doi.org/10.5281/zenodo.14933340"
-# # url_code: "https://github.com/lingeringcode/rmdash"
+url_code: "https://github.com/lingeringcode/rmdash"
 # url_pdf: ""
 # url_slides: ""
 # url_video: ""

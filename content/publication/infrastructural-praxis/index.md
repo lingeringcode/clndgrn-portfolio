@@ -12,7 +12,7 @@ author_notes:
 - "Conceptual Support, Analysis, Writing"
 
 date: "2022-10-01T00:00:00Z"
-# isbn: "978-0-87421-994-4"
+doi: "10.59236/rjv22i1pp166-207"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2021-01-01T00:00:00Z"
@@ -42,10 +42,10 @@ tags:
 featured: false
 
 # Custom links (uncomment lines below)
-links:
-- name: Article
-  url: https://reflectionsjournal.net/2022/08/building-an-infrastructural-praxis-understanding-twitters-embeddedness-in-the-u-s-mexico-border/
-url_pdf: './assets/media/publications/Reflections_Lindgren_Fernandes_22.1_102122.pdf'
+# links:
+# - name: Article
+  # url: https://reflectionsjournal.net/2022/08/building-an-infrastructural-praxis-understanding-twitters-embeddedness-in-the-u-s-mexico-border/
+# url_pdf: './assets/media/publications/Reflections_Lindgren_Fernandes_22.1_102122.pdf'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

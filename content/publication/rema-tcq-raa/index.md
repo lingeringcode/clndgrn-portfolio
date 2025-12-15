@@ -16,7 +16,7 @@ author_notes:
 - "Conceptual Development, Writing, Editing"
 
 date: "2025-04-17T00:00:00Z"
-# isbn: "978-0-87421-994-4"
+doi: "10.1080/10572252.2025.2490506"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2021-01-01T00:00:00Z"
@@ -50,9 +50,9 @@ tags:
 featured: true
 
 # Custom links (uncomment lines below)
-links:
-- name: DOI
-  url: https://doi.org/10.1080/10572252.2025.2490506
+# links:
+# - name: DOI
+#   url: https://doi.org/10.1080/10572252.2025.2490506
 # url_pdf: ''
 # url_code: ''
 # url_dataset: ''
