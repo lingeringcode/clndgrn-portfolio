@@ -6,7 +6,7 @@ title: Chris A. Lindgren
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor of Technical Communication
+role: Associate Professor of Technical Communication
 
 # Organizations/Affiliations to show in About widget
 organizations:
