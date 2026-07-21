@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter | Chris A. Lindgren, Ph.D.</title>
+    <link>http://localhost:1313/publication_types/chapter/</link>
+      <atom:link href="http://localhost:1313/publication_types/chapter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chapter</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu9848620960383675031.png</url>
+      <title>Chapter</title>
+      <link>http://localhost:1313/publication_types/chapter/</link>
+    </image>
+    
+    <item>
+      <title>The Future of Ethics and Social Justice</title>
+      <link>http://localhost:1313/publication/tpc-future-of-sj-ethics/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tpc-future-of-sj-ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Digital Labs to Build Smarter Computing Cultures</title>
+      <link>http://localhost:1313/publication/tackling-fundamental/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tackling-fundamental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utopian Laptop Initiatives: From Technological Deism to Object-Oriented Rhetoric</title>
+      <link>http://localhost:1313/publication/utopian-laptop/</link>
+      <pubDate>Tue, 27 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/utopian-laptop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Responding to the Coding Crisis: From Code Year to Computational Literacy</title>
+      <link>http://localhost:1313/publication/code-year/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/code-year/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

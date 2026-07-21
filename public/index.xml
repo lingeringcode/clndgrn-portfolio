@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris A. Lindgren, Ph.D.</title>
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chris A. Lindgren, Ph.D.</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu9848620960383675031.png</url>
+      <title>Chris A. Lindgren, Ph.D.</title>
+      <link>http://localhost:1313/</link>
+    </image>
+    
+    <item>
+      <title>Reimagining archives in the age of AI: A decolonial and relational approach</title>
+      <link>http://localhost:1313/publication/rema-tcq-raa/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rema-tcq-raa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rhetmap.org Job Dashboard</title>
+      <link>http://localhost:1313/project/rhetmap-dashboard/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/rhetmap-dashboard/</guid>
+      <description>&lt;h1 id=&#34;rhetmaporg-job-dashboard&#34;&gt;Rhetmap.org Job Dashboard&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Future of Ethics and Social Justice</title>
+      <link>http://localhost:1313/publication/tpc-future-of-sj-ethics/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tpc-future-of-sj-ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technical communication&#39;s fight against extractive large language modeling by applying FAIR and CARE principles of data</title>
+      <link>http://localhost:1313/publication/jbtc-ids-llms/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jbtc-ids-llms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIGCON Wordpress Theme</title>
+      <link>http://localhost:1313/project/sigcon/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/sigcon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Stasis Network Methodology to Reckon with the Rhetorical Process of Data: How a Data Team Qualified Meaning and Practices</title>
+      <link>http://localhost:1313/publication/stasis-networks/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/stasis-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decolonizing Community-engaged Research: Designing CER with Cultural Humility as a Foundational Value</title>
+      <link>http://localhost:1313/publication/rema-cdq-cultural-humility/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rema-cdq-cultural-humility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intersectional Citational Politics Data Dashboard (prototype)</title>
+      <link>http://localhost:1313/project/swrdash/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/swrdash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Rematriation Project</title>
+      <link>http://localhost:1313/project/rematriation/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/rematriation/</guid>
+      <description>&lt;p&gt;“Rematriation” is a term that Alaska Native (Unangax) scholar Dr. Eve Tuck uses to describe Indigenous-led methods of restoring (and sharing) cultural knowledges back with Indigenous peoples. Rematriation’s goal is to respectfully and equitably help Indigenous communities access and engage cultural knowledge to fulfill their self-determined goals. Our team of partners (VT faculty partners, community partners, foundation partners) are working together to create methods that digitally rematriate cultural knowledges back from academic and publisher databases to Indigenous peoples. We (the team) will digitize a small collection of papers and other artifacts of the deceased Inuit leader from Alaska, Caleb Pungowiyi (Cana &amp;amp; Corina’s father). This collection provides us with an initial model for our work that can be scaled to meet future and broader rematriation needs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tracking White Supremacist Citational Politics (prototype)</title>
+      <link>http://localhost:1313/project/swr-citations/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/swr-citations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dark-Pink Materials Page Theme</title>
+      <link>http://localhost:1313/project/dark-materials/</link>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/dark-materials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LimeKey Mountain Poster Theme</title>
+      <link>http://localhost:1313/project/limekey/</link>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/limekey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Red-Checkered Page Theme</title>
+      <link>http://localhost:1313/project/checkered/</link>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/checkered/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sunflower Page Theme</title>
+      <link>http://localhost:1313/project/sunflower/</link>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/sunflower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building an Infrastructural Praxis: Understanding Twitter&#39;s embeddedness in the U.S.-Mexico Border</title>
+      <link>http://localhost:1313/publication/infrastructural-praxis/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/infrastructural-praxis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#34;Hello, Is This the Writing Center?&#34;: Illicit Paper Mill Activity and the Compromised Recomposition of College and University Websites</title>
+      <link>http://localhost:1313/publication/rhetops-paper-mills/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rhetops-paper-mills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writing With Data: A Study of Coding on a Data-Journalism Team</title>
+      <link>http://localhost:1313/publication/writing-with-data/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:01 +0000</pubDate>
+      <guid>http://localhost:1313/publication/writing-with-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facts Upon Delivery: What Is Rhetorical About Visualized Models?</title>
+      <link>http://localhost:1313/publication/facts-upon-delivery/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/facts-upon-delivery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rhetmap.org: Visualizing Collaboration through Six Years of Field Data</title>
+      <link>http://localhost:1313/publication/rhetmap.org-visualizing/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rhetmap.org-visualizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>askcomm</title>
+      <link>http://localhost:1313/project/askcomm/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/askcomm/</guid>
+      <description>&lt;h1 id=&#34;askcomm-python-3-module---search-patterns-for-event-based-community-detected-twitter-data&#34;&gt;askcomm: Python 3 module - Search patterns for event-based, community-detected twitter data.&lt;/h1&gt;
+&lt;p&gt;By Chris Lindgren 
+&lt;/p&gt;
+&lt;p&gt;Distributed under the BSD 3-clause license. See LICENSE.txt or 
+ for details.&lt;/p&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;A set of search patterns that query a corpus of event-based and community-detected tweets, but it could be modified to query most social-network (node-edge) data. The queries are great for content produced within the detected-community subgraph data.&lt;/p&gt;
+&lt;p&gt;It assumes you have:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;imported your corpus as a pandas DataFrame,&lt;/li&gt;
+&lt;li&gt;included metadata information, such as a list of dates and list of groups to reorganize your corpus, and&lt;/li&gt;
+&lt;li&gt;pre-processed your documents as community-detected data across periodic events.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;functions&#34;&gt;Functions&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;query_controller&lt;/code&gt;: Accepts corpus and hub user data and searches for tweets germane to the detected module community across a range of periods and communities. It uses the &lt;code&gt;find_mentions&lt;/code&gt; function to conduct a cross-reference search within a period&amp;rsquo;s data range with 2 options: &amp;lsquo;mentions_only&amp;rsquo; or &amp;lsquo;user_and_mentions&amp;rsquo;. &amp;lsquo;&lt;code&gt;mentions_only&lt;/code&gt;&amp;rsquo; searches a column with a List of mentions per tweet. &amp;lsquo;&lt;code&gt;user_and_mentions&lt;/code&gt;&amp;rsquo; cross references the author  of a tweet with the list of mentions. It returns a Dict of top result tweets found during that period.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;query_controller&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;hubs&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;df_hubs&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;#community-detected data&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;hub_col_period&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;period&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;#column name for periods&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;hub_col_module&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;info_module&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;# column name for community name&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;hub_col_users&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;name&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;#column name for &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;period_range&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;],&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;#range of desired periods&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;module_range&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;],&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;#range of desired communities/modules&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;corpus&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;c_htg&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;#content corpus&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;period_dates&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;period_dates&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;#List of lists with dates to &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;col_dates&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;dates&amp;#39;&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;#column name for dates&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;code&gt;convert_to_df&lt;/code&gt;: Converts the Dict output from query_controller into a Dataframe with top result per user. If no tweet found , appends as None.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;find_ht&lt;/code&gt;: Queries subset of isolated mentioned or authored tweets with hashtag group list. It returns another subset as a dataframe.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;find_links&lt;/code&gt;: Queries links in tweets with search string. It returns subset as a dataframe.&lt;/p&gt;
+&lt;p&gt;Other functions include: &lt;code&gt;find_mentions&lt;/code&gt; and &lt;code&gt;print_subset&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;It functions only with Python 3.x and is not backwards-compatible.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Warning&lt;/strong&gt;: askcomm performs little to no custom error-handling, so make sure your inputs are formatted properly. If you have questions, please let me know via email.&lt;/p&gt;
+&lt;h2 id=&#34;system-requirements&#34;&gt;System requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;pandas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Download this repo onto your computer.&lt;/li&gt;
+&lt;li&gt;Store the folder in a meaningful location.&lt;/li&gt;
+&lt;li&gt;Open a terminal.&lt;/li&gt;
+&lt;li&gt;In the terminal, navigate to the root of the folder.&lt;/li&gt;
+&lt;li&gt;In the terminal, run &lt;code&gt;pip install .&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>urlcounter</title>
+      <link>http://localhost:1313/project/urlcounter/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/urlcounter/</guid>
+      <description>&lt;h1 id=&#34;urlcounter&#34;&gt;urlcounter&lt;/h1&gt;
+&lt;p&gt;By Chris Lindgren 
+
+Distributed under the BSD 3-clause license. See LICENSE.txt or 
+ for details.&lt;/p&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;urlcounter&lt;/code&gt; is a set of functions that tallies full and domain URLs for periodic, event-defined social-media posting data. It assumes you seek an answer to the following questions about link-sharing:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;What are the top x full URLs and domain URLs from each group during each period?&lt;/li&gt;
+&lt;li&gt;What are the top x full URLs and domain URLs from each group-module (detected community) in each period?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;To use the module, import and follow the below example for guidance:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;urlcounter&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;as&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;urlc&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;dict_url_counts&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;urlc&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;top_urls&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;df&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;cdf&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;#DataFrame of full corpus&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;periods&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;#Tuple providing range of numbered periods&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;hubs&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;#Tuple providing range of numbered hubs&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;period_dates&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;period_dates&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;#Dict of Lists with dates per period&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;list_of_regex&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;htg_btw&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;htg_fbt&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;htg_anti&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;],&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;#List of regex patterns defined for each group&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;hl&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;hub_lists&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;#Dict with keyed lists of hub usernames per period&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;columns&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;cleaned_urls&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;retweets_count&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;hashtags&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;username&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;mentions&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;],&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;#Provide a List of column names to use for search and counting&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;url_sample_size&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;50&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;#Desired sample size limit, e.g., Top 50&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;verbose&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;True&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;#Boolean. True prints out status messages, False prints nothing&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;example-outputs&#34;&gt;Example outputs&lt;/h3&gt;
+&lt;p&gt;It returns a &lt;code&gt;Dict&lt;/code&gt; keyed by user-defined group names, period ranges, and module ranges:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Overall period-based URL summary data with keyed group name, &amp;#39;fbt&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## &amp;#39;1&amp;#39; = Period 1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## &amp;#39;fbt&amp;#39; = Keyed group name + &amp;#39;urls_per_period&amp;#39; and &amp;#39;domains_per_period&amp;#39; = Summary total data&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;output&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;1&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;][&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;fbt_urls_per_period&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;output&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;1&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;][&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;fbt_domains_per_period&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Overall community hub-based URL summary per period data with keyed group name, &amp;#39;fbt&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## &amp;#39;1&amp;#39; = Period 1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## &amp;#39;fbt&amp;#39; = Keyed group name &amp;#39;fbt&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## &amp;#39;1&amp;#39; = Community hub/module 1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## &amp;#39;hub_sample_size&amp;#39;, &amp;#39;hub_tweet_sample_size&amp;#39;,&amp;#39;hub_url_counts&amp;#39;,&amp;#39;hub_domain_counts&amp;#39; = Summary total data&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;output&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;1&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;][&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;fbt&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;][&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;1&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;][&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hub_sample_size&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;output&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;1&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;][&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;fbt&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;][&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;1&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;][&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hub_tweet_sample_size&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;output&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;1&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;][&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;fbt&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;][&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;1&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;][&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hub_url_counts&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;output&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;1&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;][&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;fbt&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;][&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;1&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;][&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hub_domain_counts&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;1&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;#Start period 1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;s1&#34;&gt;&amp;#39;fbt_domains_per_period&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;#start period 1 totals for group keyed as &amp;#39;fbt&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;twitter.com&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;3003&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;instagram.com&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1001&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;facebook.com&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;202&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;],&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;s1&#34;&gt;&amp;#39;fbt_urls_per_period&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://twitter.com/user/status/example&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;202&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.instagram.com/p/example/&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;202&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;o&#34;&gt;...&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;]},&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;#end period 1 totals for group keyed as &amp;#39;fbt&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;fbt&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;#start period 1, module/hub 1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;s1&#34;&gt;&amp;#39;1&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;s1&#34;&gt;&amp;#39;hub_domain_counts&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;example.com&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;178&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;example2.go.lc&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;14&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;example3.com&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;...&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;p&#34;&gt;],&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;s1&#34;&gt;&amp;#39;hub_sample_size&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;103&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;s1&#34;&gt;&amp;#39;hub_tweet_sample_size&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;486&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;s1&#34;&gt;&amp;#39;hub_url_counts&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://example.com/politics/story-title-1/&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;120&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://example.com/politics/story-title-2/&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;58&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;o&#34;&gt;...&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;},&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;#end period 1, module/hub 1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;o&#34;&gt;...&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;},&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;#end period&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;...&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;top_urls&#34;&gt;top_urls()&lt;/h3&gt;
+&lt;p&gt;Tallies up URLs in corpus.&lt;/p&gt;
+&lt;p&gt;Arguments:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;df&lt;/code&gt;= DataFrame. Corpus to query from.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;columns&lt;/code&gt;= a List of 5 column names (String) to reference in DF corpus. &lt;strong&gt;!IMP&lt;/strong&gt;: &lt;em&gt;The order matters&lt;/em&gt;:
+&lt;ol&gt;
+&lt;li&gt;Column with URLs (String) that includes a list of URLs included in post/content:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Example: [&amp;lsquo;https://time.com&amp;rsquo;,&amp;lsquo;https://and-time-again.com&amp;rsquo;]. The List can also be a String, &amp;lsquo;[]&amp;rsquo; since the function converts literals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Column with number of times a post was shared (Integer), such as Retweets on Twitter.&lt;/li&gt;
+&lt;li&gt;Column with group data (String), such as hashtags from tweets.&lt;/li&gt;
+&lt;li&gt;Column with usernames (String), such as tweet usernames&lt;/li&gt;
+&lt;li&gt;Column with target content data (String), such as tweets with targeted users from module, or stringified list of targeted people like tweet mentions.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;url_sample_size&lt;/code&gt;= Integer. Desired sample limit.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;periods&lt;/code&gt;= Tuple. Contains 2 Integers, which define the range of periods, e.g., (1,10)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;hubs&lt;/code&gt;= Tuple. Contains 2 Integers, which define the range of module/hubs, e.g., (1,10)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;period_dates&lt;/code&gt;= Dict of Lists with dates per period: pd[&amp;lsquo;1&amp;rsquo;] =&amp;gt; [&amp;lsquo;2018-01-01&amp;rsquo;,&amp;lsquo;2018-01-01&amp;rsquo;,&amp;hellip;]&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;list_of_regex&lt;/code&gt;= List. Contains:
+&lt;ol&gt;
+&lt;li&gt;list of regex patterns with group identifiers, such as hashtags&lt;/li&gt;
+&lt;li&gt;String. Key identifier for group.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;hl&lt;/code&gt;= Dict. Contains lists of community-detected usernames&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;verbose&lt;/code&gt;= Boolean. True prints out status messages (recommended), False prints nothing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Returns:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dict. See documentation for output details for data access.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;url_counter&#34;&gt;url_counter()&lt;/h3&gt;
+&lt;p&gt;Helper function for &lt;code&gt;top_urls()&lt;/code&gt;. It transforms an incoming list of Strings into a regex string to facilitate a search.&lt;/p&gt;
+&lt;p&gt;Arguments:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;df&lt;/code&gt;: DataFrame. Array of Strings to write as a regex String.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;columns&lt;/code&gt;: A List of 4 column names to use from corpus, but only uses the first two in this function:
+&lt;ol&gt;
+&lt;li&gt;Name of URL column that includes a list of URLs included in post/content.&lt;/li&gt;
+&lt;li&gt;Integer. Number of times a post was shared, such as Retweets on Twitter.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Returns:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A &lt;code&gt;List&lt;/code&gt; that includes:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;sorted_totals&lt;/code&gt;: List of Tuples that contain 2 items:
+&lt;ul&gt;
+&lt;li&gt;String full URL&lt;/li&gt;
+&lt;li&gt;Integer. Total number of URL instances (including RTs).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;sorted_domain_totals&lt;/code&gt;:
+&lt;ul&gt;
+&lt;li&gt;String domain URL&lt;/li&gt;
+&lt;li&gt;Integer. Total number of URL instances (including RTs).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;regex_lister&#34;&gt;regex_lister()&lt;/h3&gt;
+&lt;p&gt;Helper function for &lt;code&gt;top_urls()&lt;/code&gt;, but also can be used to create the group regex search parameters on its own. It transforms an incoming list of Strings into a regex string to facilitate a search.&lt;/p&gt;
+&lt;p&gt;Arguments:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;the_list&lt;/code&gt;: List. Array of Strings to write as a regex String.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;key&lt;/code&gt;: String. Denotes the group name&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Returns:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;keyed&lt;/code&gt;: Tuple with;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;&#39;key&#39;&lt;/code&gt; (String) that denotes the group name&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;&#39;listicle&#39;&lt;/code&gt; (regex String) that will be used for a search&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;urlcounter&lt;/code&gt; functions only with Python 3.x and is not backwards-compatible (although one could probably branch off a 2.x port with minimal effort).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Warning&lt;/strong&gt;: &lt;code&gt;urlcounter&lt;/code&gt; performs no custom error-handling, so make sure your inputs are formatted properly! If you have questions, please let me know via email.&lt;/p&gt;
+&lt;h2 id=&#34;system-requirements&#34;&gt;System requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;pandas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;pip install urlcounter&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Representing Diversity in Digital Research: Digital Feminist Ethics and Resisting Dominant Normatives</title>
+      <link>http://localhost:1313/publication/intersectional-phronesis/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/intersectional-phronesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Digital Labs to Build Smarter Computing Cultures</title>
+      <link>http://localhost:1313/publication/tackling-fundamental/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tackling-fundamental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utopian Laptop Initiatives: From Technological Deism to Object-Oriented Rhetoric</title>
+      <link>http://localhost:1313/publication/utopian-laptop/</link>
+      <pubDate>Tue, 27 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/utopian-laptop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Responding to the Coding Crisis: From Code Year to Computational Literacy</title>
+      <link>http://localhost:1313/publication/code-year/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/code-year/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

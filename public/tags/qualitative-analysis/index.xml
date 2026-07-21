@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qualitative Analysis | Chris A. Lindgren, Ph.D.</title>
+    <link>http://localhost:1313/tags/qualitative-analysis/</link>
+      <atom:link href="http://localhost:1313/tags/qualitative-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qualitative Analysis</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu9848620960383675031.png</url>
+      <title>Qualitative Analysis</title>
+      <link>http://localhost:1313/tags/qualitative-analysis/</link>
+    </image>
+    
+    <item>
+      <title>askcomm</title>
+      <link>http://localhost:1313/project/askcomm/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/askcomm/</guid>
+      <description>&lt;h1 id=&#34;askcomm-python-3-module---search-patterns-for-event-based-community-detected-twitter-data&#34;&gt;askcomm: Python 3 module - Search patterns for event-based, community-detected twitter data.&lt;/h1&gt;
+&lt;p&gt;By Chris Lindgren 
+&lt;/p&gt;
+&lt;p&gt;Distributed under the BSD 3-clause license. See LICENSE.txt or 
+ for details.&lt;/p&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;A set of search patterns that query a corpus of event-based and community-detected tweets, but it could be modified to query most social-network (node-edge) data. The queries are great for content produced within the detected-community subgraph data.&lt;/p&gt;
+&lt;p&gt;It assumes you have:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;imported your corpus as a pandas DataFrame,&lt;/li&gt;
+&lt;li&gt;included metadata information, such as a list of dates and list of groups to reorganize your corpus, and&lt;/li&gt;
+&lt;li&gt;pre-processed your documents as community-detected data across periodic events.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;functions&#34;&gt;Functions&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;query_controller&lt;/code&gt;: Accepts corpus and hub user data and searches for tweets germane to the detected module community across a range of periods and communities. It uses the &lt;code&gt;find_mentions&lt;/code&gt; function to conduct a cross-reference search within a period&amp;rsquo;s data range with 2 options: &amp;lsquo;mentions_only&amp;rsquo; or &amp;lsquo;user_and_mentions&amp;rsquo;. &amp;lsquo;&lt;code&gt;mentions_only&lt;/code&gt;&amp;rsquo; searches a column with a List of mentions per tweet. &amp;lsquo;&lt;code&gt;user_and_mentions&lt;/code&gt;&amp;rsquo; cross references the author  of a tweet with the list of mentions. It returns a Dict of top result tweets found during that period.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;query_controller&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;hubs&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;df_hubs&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;#community-detected data&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;hub_col_period&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;period&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;#column name for periods&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;hub_col_module&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;info_module&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;# column name for community name&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;hub_col_users&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;name&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;#column name for &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;period_range&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;],&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;#range of desired periods&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;module_range&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;],&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;#range of desired communities/modules&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;corpus&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;c_htg&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;#content corpus&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;period_dates&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;period_dates&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;#List of lists with dates to &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;col_dates&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;dates&amp;#39;&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;#column name for dates&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;code&gt;convert_to_df&lt;/code&gt;: Converts the Dict output from query_controller into a Dataframe with top result per user. If no tweet found , appends as None.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;find_ht&lt;/code&gt;: Queries subset of isolated mentioned or authored tweets with hashtag group list. It returns another subset as a dataframe.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;find_links&lt;/code&gt;: Queries links in tweets with search string. It returns subset as a dataframe.&lt;/p&gt;
+&lt;p&gt;Other functions include: &lt;code&gt;find_mentions&lt;/code&gt; and &lt;code&gt;print_subset&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;It functions only with Python 3.x and is not backwards-compatible.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Warning&lt;/strong&gt;: askcomm performs little to no custom error-handling, so make sure your inputs are formatted properly. If you have questions, please let me know via email.&lt;/p&gt;
+&lt;h2 id=&#34;system-requirements&#34;&gt;System requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;pandas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Download this repo onto your computer.&lt;/li&gt;
+&lt;li&gt;Store the folder in a meaningful location.&lt;/li&gt;
+&lt;li&gt;Open a terminal.&lt;/li&gt;
+&lt;li&gt;In the terminal, navigate to the root of the folder.&lt;/li&gt;
+&lt;li&gt;In the terminal, run &lt;code&gt;pip install .&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

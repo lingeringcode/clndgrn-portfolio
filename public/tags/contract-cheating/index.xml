@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contract Cheating | Chris A. Lindgren, Ph.D.</title>
+    <link>http://localhost:1313/tags/contract-cheating/</link>
+      <atom:link href="http://localhost:1313/tags/contract-cheating/index.xml" rel="self" type="application/rss+xml" />
+    <description>Contract Cheating</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu9848620960383675031.png</url>
+      <title>Contract Cheating</title>
+      <link>http://localhost:1313/tags/contract-cheating/</link>
+    </image>
+    
+    <item>
+      <title>&#34;Hello, Is This the Writing Center?&#34;: Illicit Paper Mill Activity and the Compromised Recomposition of College and University Websites</title>
+      <link>http://localhost:1313/publication/rhetops-paper-mills/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rhetops-paper-mills/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

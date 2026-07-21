@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Border Rhetorics | Chris A. Lindgren, Ph.D.</title>
+    <link>http://localhost:1313/tags/border-rhetorics/</link>
+      <atom:link href="http://localhost:1313/tags/border-rhetorics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Border Rhetorics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu9848620960383675031.png</url>
+      <title>Border Rhetorics</title>
+      <link>http://localhost:1313/tags/border-rhetorics/</link>
+    </image>
+    
+    <item>
+      <title>Building an Infrastructural Praxis: Understanding Twitter&#39;s embeddedness in the U.S.-Mexico Border</title>
+      <link>http://localhost:1313/publication/infrastructural-praxis/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/infrastructural-praxis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

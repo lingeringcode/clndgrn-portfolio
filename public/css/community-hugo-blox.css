@@ -1,0 +1,7 @@
+/* Add your block styles here */
+
+.section__hero_banner {
+  padding: 20px 0;
+  background-color: #f6e632;
+  min-height: 350px;
+}

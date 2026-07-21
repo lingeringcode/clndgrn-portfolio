@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archives | Chris A. Lindgren, Ph.D.</title>
+    <link>http://localhost:1313/tags/archives/</link>
+      <atom:link href="http://localhost:1313/tags/archives/index.xml" rel="self" type="application/rss+xml" />
+    <description>Archives</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu9848620960383675031.png</url>
+      <title>Archives</title>
+      <link>http://localhost:1313/tags/archives/</link>
+    </image>
+    
+    <item>
+      <title>Reimagining archives in the age of AI: A decolonial and relational approach</title>
+      <link>http://localhost:1313/publication/rema-tcq-raa/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rema-tcq-raa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

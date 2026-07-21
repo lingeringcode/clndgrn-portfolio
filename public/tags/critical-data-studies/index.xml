@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Critical Data Studies | Chris A. Lindgren, Ph.D.</title>
+    <link>http://localhost:1313/tags/critical-data-studies/</link>
+      <atom:link href="http://localhost:1313/tags/critical-data-studies/index.xml" rel="self" type="application/rss+xml" />
+    <description>Critical Data Studies</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu9848620960383675031.png</url>
+      <title>Critical Data Studies</title>
+      <link>http://localhost:1313/tags/critical-data-studies/</link>
+    </image>
+    
+    <item>
+      <title>Technical communication&#39;s fight against extractive large language modeling by applying FAIR and CARE principles of data</title>
+      <link>http://localhost:1313/publication/jbtc-ids-llms/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jbtc-ids-llms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Stasis Network Methodology to Reckon with the Rhetorical Process of Data: How a Data Team Qualified Meaning and Practices</title>
+      <link>http://localhost:1313/publication/stasis-networks/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/stasis-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writing With Data: A Study of Coding on a Data-Journalism Team</title>
+      <link>http://localhost:1313/publication/writing-with-data/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:01 +0000</pubDate>
+      <guid>http://localhost:1313/publication/writing-with-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facts Upon Delivery: What Is Rhetorical About Visualized Models?</title>
+      <link>http://localhost:1313/publication/facts-upon-delivery/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/facts-upon-delivery/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

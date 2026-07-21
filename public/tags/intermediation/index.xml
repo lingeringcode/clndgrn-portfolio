@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intermediation | Chris A. Lindgren, Ph.D.</title>
+    <link>http://localhost:1313/tags/intermediation/</link>
+      <atom:link href="http://localhost:1313/tags/intermediation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Intermediation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:01 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu9848620960383675031.png</url>
+      <title>Intermediation</title>
+      <link>http://localhost:1313/tags/intermediation/</link>
+    </image>
+    
+    <item>
+      <title>Writing With Data: A Study of Coding on a Data-Journalism Team</title>
+      <link>http://localhost:1313/publication/writing-with-data/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:01 +0000</pubDate>
+      <guid>http://localhost:1313/publication/writing-with-data/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
